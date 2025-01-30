@@ -1,6 +1,6 @@
 # Machine Learning - Detecção de Fraude de Cartão de Credito - Logistic Regression
 
-![Pizza](https://)
+![Resultados](https://https://github.com/ChrystianRosa/creditcard-fraud/blob/main/Foto.png)
 
 ## Sobre o projeto
 
